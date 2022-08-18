@@ -1,5 +1,7 @@
 # Wallaby - Testes de inetegraçao no Elixir 
 
+[Video de referência](https://alchemist.camp/episodes/integration-testing-elixir-wallaby)
+
 ## Configuração 📝
 
 1. Instalar [PhantomJS](https://phantomjs.org/) (?)
