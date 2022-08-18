@@ -1,4 +1,4 @@
-# Wallaby - Testes de inetegraçao no Elixir 
+# Wallaby - Testes de integração no Elixir 
 
 [Video de referência](https://alchemist.camp/episodes/integration-testing-elixir-wallaby)
 
@@ -10,7 +10,7 @@
     npm install -g phantomjs
     ```
     
-2. Inserir a dependencia no arquivo `mix.exs`
+2. Inserir a dependência no arquivo `mix.exs`
     
     ```elixir
     {:wallaby, "~> 0.23", [runtime: false, only: :test]}
